@@ -37,8 +37,8 @@ data.corr()
 f, ax = plt.subplots(figsize=(18,18))
 sns.heatmap(data.corr(), annot=True, linewidth=0.5, fmt= '0.1f', ax=ax)
 plt.show()
-
-
+# plt.savefig('graph1.png')
+plt
 ## Using matplot to visualize the data
 
 # Line Plot
