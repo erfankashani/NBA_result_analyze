@@ -1,3 +1,4 @@
 .pylintrc
 .vscode/
 DATABASE/
+.DS_Store
