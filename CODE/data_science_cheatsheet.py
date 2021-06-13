@@ -227,7 +227,7 @@ data["speed_level"] = ["high" if i > threshold else "low" for i in data.Speed]
 data.loc[:10,["speed_level","Speed"]] # we will learn loc more detailed later
 
 
-## Cleaning data
+######################### Cleaning data #########################
 
 # we are using the same data form in the top of the tutorial
 
